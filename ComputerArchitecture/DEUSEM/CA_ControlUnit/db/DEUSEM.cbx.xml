@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="DEUSEM">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|ALU:inst7|ShiftFunction:inst7|lpm_mux5:inst3|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_mne.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|CU:inst8|lpm_decode6:inst4|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_lbf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|lpm_counter4:AC|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_j5k.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|lpm_counter5:AR|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_i5k.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|lpm_counter6:OUTR|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_pqj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|ALU:inst7|ShiftFunction:inst3|lpm_mux5:inst|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_mne.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|CU:inst8|lpm_counter7:SC|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_cri.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|ALU:inst7|ShiftFunction:inst3|lpm_mux5:inst1|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_mne.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|lpm_counter4:DR|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_j5k.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|lpm_decode3:inst5|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_d9h.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|ALU:inst7|ShiftFunction:inst3|lpm_mux5:inst2|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_mne.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|ALU:inst7|ShiftFunction:inst7|lpm_mux5:inst2|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_mne.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|ALU:inst7|lpm_mux2:inst|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_hpe.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|CU:inst8|lpm_decode5:inst|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_i9h.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|CodeRom:sadsaf|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_bj91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|lpm_counter4:PC|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_j5k.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|lpm_counter6:INPR|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_pqj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|ALU:inst7|ShiftFunction:inst3|lpm_mux5:inst3|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_mne.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|CU:inst8|lpm_decode7:inst25|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_d9h.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|lpm_decode4:inst6|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_d9h.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|lpm_mux0:inst|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_9qc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|ALU:inst7|ShiftFunction:inst7|lpm_mux5:inst|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_mne.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|ALU:inst7|lpm_mux4:inst17|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_grc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|DataRam:inst18|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_soh1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|ALU:inst7|ShiftFunction:inst7|lpm_mux5:inst1|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_mne.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|lpm_counter3:IR|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_doj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|lpm_decode0:Inc|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_d9h.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

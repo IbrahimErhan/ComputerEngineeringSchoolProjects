@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ABRA A5\Desktop\Queartus Projects\DEUSEM\simulation\qsim
+vCommon_Bus_System
+Z1 !s100 a@PQca:BZCk6@8g^UPk460
+Z2 IjNPF_6ZiOG@oP0RH:9naM0
+Z3 VR:oUc?LMTGM1ozQH_4e003
+Z4 dC:\Users\ABRA A5\Desktop\Queartus Projects\DEUSEM\simulation\qsim
+Z5 w1525983673
+Z6 8DEUSEM.vo
+Z7 FDEUSEM.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|DEUSEM.vo|
+Z10 o-work work -O0
+Z11 n@common_@bus_@system
+!i10b 1
+!s85 0
+Z12 !s108 1525983674.304000
+Z13 !s107 DEUSEM.vo|
+!s101 -O0
+vCommon_Bus_System_vlg_check_tst
+!i10b 1
+Z14 !s100 :D?AzlD@oC`109dof6b6z1
+Z15 InehR1HJD?X>_7@zZ16H:_3
+Z16 VAg5@KUA:MieieA_<L47oh1
+R4
+Z17 w1525983672
+Z18 8DEUSEM.vt
+Z19 FDEUSEM.vt
+L0 61
+R8
+r1
+!s85 0
+31
+Z20 !s108 1525983674.438000
+Z21 !s107 DEUSEM.vt|
+Z22 !s90 -work|work|DEUSEM.vt|
+!s101 -O0
+R10
+Z23 n@common_@bus_@system_vlg_check_tst
+vCommon_Bus_System_vlg_sample_tst
+!i10b 1
+Z24 !s100 =eeK=PH753^B_RoP5MVhP1
+Z25 IgG`mR@;C[E>Go<50YLYO83
+Z26 VlPcPEfVc:`EdUXHVYdATh2
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@common_@bus_@system_vlg_sample_tst
+vCommon_Bus_System_vlg_vec_tst
+!i10b 1
+Z28 !s100 1j53Ub=]GZ^8EmM_]9ZO@0
+Z29 I^RcNK?gTRJ^[[^E0RV>6Y0
+Z30 V9g:2ZdI:dM>jgEG4NmIBj0
+R4
+R17
+R18
+R19
+Z31 L0 420
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z32 n@common_@bus_@system_vlg_vec_tst

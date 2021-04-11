@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="Common_Bus_System">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|lpm_counter4:AC|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_j5k.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|lpm_counter5:AR|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_i5k.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|lpm_counter6:OUTR|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_pqj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|lpm_decode0:load|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_d9h.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|lpm_mux0:inst|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_9qc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|DataRam:inst18|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_soh1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|lpm_counter3:IR|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_jdj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|lpm_counter4:DR|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_j5k.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|lpm_decode0:Inc|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_d9h.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|CodeRom:sadsaf|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_bj91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|lpm_counter4:PC|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_j5k.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|lpm_counter6:INPR|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_pqj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Common_Bus_System|lpm_decode0:clear|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_d9h.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

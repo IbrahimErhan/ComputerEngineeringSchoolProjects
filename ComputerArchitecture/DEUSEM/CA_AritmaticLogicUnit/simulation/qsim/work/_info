@@ -1,0 +1,165 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ABRA A5\Desktop\Queartus Projects\CA_ALU\simulation\qsim
+vArithmaticLogicUnit
+Z1 IRCz8kSPc@9K7E;2ZHhN1W1
+Z2 VZV79744Ueg>4o=5Em5R9a0
+Z3 dC:\Users\ABRA A5\Desktop\Queartus Projects\CA_ALU\simulation\qsim
+Z4 w1523541431
+Z5 8ArithmaticLogicUnit.vo
+Z6 FArithmaticLogicUnit.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|ArithmaticLogicUnit.vo|
+Z9 o-work work -O0
+Z10 n@arithmatic@logic@unit
+!i10b 1
+Z11 !s100 WcL0g8d9Cam7l_@mdH3dU2
+!s85 0
+Z12 !s108 1523541432.072000
+Z13 !s107 ArithmaticLogicUnit.vo|
+!s101 -O0
+vArithmaticLogicUnit_vlg_check_tst
+!i10b 1
+Z14 !s100 RniUT0h`C39_XMVG=SO6H0
+Z15 IjVV503n?j?UjGUWWAJzK]2
+Z16 V6@Xe?6a^4L]b0B3lWJHD`1
+R3
+Z17 w1523541430
+Z18 8ArithmaticLogicUnit.vt
+Z19 FArithmaticLogicUnit.vt
+L0 67
+R7
+r1
+!s85 0
+31
+Z20 !s108 1523541432.227000
+Z21 !s107 ArithmaticLogicUnit.vt|
+Z22 !s90 -work|work|ArithmaticLogicUnit.vt|
+!s101 -O0
+R9
+Z23 n@arithmatic@logic@unit_vlg_check_tst
+vArithmaticLogicUnit_vlg_sample_tst
+!i10b 1
+Z24 !s100 >ZD9WUG[Df^VieLKT<HA:3
+Z25 IQ7KAH_b=QcGHLoGlNG_TT1
+Z26 VbWncIMKQQVPX0S_CJQU792
+R3
+R17
+R18
+R19
+L0 29
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z27 n@arithmatic@logic@unit_vlg_sample_tst
+vArithmaticLogicUnit_vlg_vec_tst
+!i10b 1
+!s100 <hMWIYCN^`K1g<8??YN4;0
+I:bV9_3aAFndA5FIDGNWz23
+Z28 V8@d0k`1K4WO[V;Widh>W61
+R3
+R17
+R18
+R19
+Z29 L0 242
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z30 n@arithmatic@logic@unit_vlg_vec_tst
+vShiftFunction
+Z31 !s100 SeKd;fKS09aSHDHe@V7F[1
+Z32 IJZBOdeVMA8;egbCemMGHS2
+Z33 VTjzLmn90NWDG14dPnB<Qn0
+R3
+Z34 w1523540551
+R5
+R6
+L0 31
+R7
+r1
+31
+R8
+R9
+Z35 n@shift@function
+Z36 !s108 1523540552.089000
+R13
+!i10b 1
+!s85 0
+!s101 -O0
+vShiftFunction_vlg_check_tst
+Z37 !s100 9bhk8MafAMHLOVz7[^>Jd3
+Z38 I=Q_]Og9ZLTCP9X66407PY1
+Z39 VN8B_8G]Y_DiN=>_K]]7WN1
+R3
+Z40 w1523382646
+R18
+R19
+L0 61
+R7
+r1
+31
+Z41 !s108 1523382647.968000
+Z42 !s107 ArithmaticLogicUnit.vt|
+R22
+R9
+Z43 n@shift@function_vlg_check_tst
+!i10b 1
+!s85 0
+!s101 -O0
+vShiftFunction_vlg_sample_tst
+Z44 !s100 khFAhBAUB6jE0593EnDDz1
+Z45 IeHGgY0K2HeQe<KTF]g<Xo0
+Z46 VL3UMK4oo_AQd4^nW_426L2
+R3
+R40
+R18
+R19
+L0 29
+R7
+r1
+31
+R41
+R42
+R22
+R9
+Z47 n@shift@function_vlg_sample_tst
+!i10b 1
+!s85 0
+!s101 -O0
+vShiftFunction_vlg_vec_tst
+Z48 !s100 P2j6>SZ<l1_mE8McW>jCN3
+Z49 IoGFfhPCkXeNZXjXoPb=hz2
+Z50 Vg8i9MDALajkLm_2PZ@Y>D0
+R3
+Z51 w1523540550
+R18
+R19
+L0 29
+R7
+r1
+31
+R22
+R9
+Z52 n@shift@function_vlg_vec_tst
+Z53 !s108 1523540552.282000
+R42
+!i10b 1
+!s85 0
+!s101 -O0

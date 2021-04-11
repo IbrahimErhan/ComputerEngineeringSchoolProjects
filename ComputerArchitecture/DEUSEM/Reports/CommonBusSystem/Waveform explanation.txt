@@ -1,0 +1,4 @@
+load input 5 (0110)
+write input to address 000 
+load out with data from address 000
+see data out value 5 (0110)

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="ArithmaticLogicUnit">
+		<CBX_INST_ENTRY INSTANCE_NAME="|ArithmaticLogicUnit|ShiftFunction:inst3|lpm_mux1:inst2|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_mne.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ArithmaticLogicUnit|ShiftFunction:inst7|lpm_mux1:inst2|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_mne.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ArithmaticLogicUnit|ShiftFunction:inst3|lpm_mux1:inst1|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_mne.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ArithmaticLogicUnit|ShiftFunction:inst3|lpm_mux1:inst3|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_mne.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ArithmaticLogicUnit|ShiftFunction:inst7|lpm_mux1:inst1|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_mne.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ArithmaticLogicUnit|ShiftFunction:inst7|lpm_mux1:inst3|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_mne.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ArithmaticLogicUnit|ShiftFunction:inst3|lpm_mux1:inst|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_mne.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ArithmaticLogicUnit|ShiftFunction:inst7|lpm_mux1:inst|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_mne.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ArithmaticLogicUnit|lpm_mux0:inst|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_gpe.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

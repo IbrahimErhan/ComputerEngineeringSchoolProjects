@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ABRA A5\Desktop\Queartus Projects\CA_Common_Bus_System\simulation\qsim
+vCommon_Bus_System
+Z1 !s100 4_agN[[0OEjX8z84m:A[K2
+Z2 Ie?=jXmz>=U=;?N=96:Lnj1
+Z3 V@84WdSegzVV@Gj1hz@9>S1
+Z4 dC:\Users\ABRA A5\Desktop\Queartus Projects\CA_Common_Bus_System\simulation\qsim
+Z5 w1522944378
+Z6 8Common_Bus_System.vo
+Z7 FCommon_Bus_System.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|Common_Bus_System.vo|
+Z10 o-work work -O0
+Z11 n@common_@bus_@system
+!i10b 1
+!s85 0
+Z12 !s108 1522944379.271000
+Z13 !s107 Common_Bus_System.vo|
+!s101 -O0
+vCommon_Bus_System_vlg_check_tst
+!i10b 1
+Z14 !s100 N^DKNelFECZ^6e=6WgQ8P3
+Z15 IO7;4V^O^gknd5MPN<g4CS3
+Z16 V_TBRJX4b@1XlAz3DUcSTT3
+R4
+Z17 w1522944377
+Z18 8Common_Bus_System.vt
+Z19 FCommon_Bus_System.vt
+L0 71
+R8
+r1
+!s85 0
+31
+Z20 !s108 1522944379.434000
+Z21 !s107 Common_Bus_System.vt|
+Z22 !s90 -work|work|Common_Bus_System.vt|
+!s101 -O0
+R10
+Z23 n@common_@bus_@system_vlg_check_tst
+vCommon_Bus_System_vlg_sample_tst
+!i10b 1
+Z24 !s100 mcY:E[zf5>VadlLd;Kn^73
+Z25 INN^:lAnYa6X33;G3aHSTI1
+Z26 Vh`c0PKAVQW[L:nHUjcofN2
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@common_@bus_@system_vlg_sample_tst
+vCommon_Bus_System_vlg_vec_tst
+!i10b 1
+!s100 ee0cU1Qn50W?S]kHLW7`G1
+IA@O<I:5RQQF6]SJ@IY@;T3
+Z28 V9g:2ZdI:dM>jgEG4NmIBj0
+R4
+R17
+R18
+R19
+Z29 L0 299
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z30 n@common_@bus_@system_vlg_vec_tst
